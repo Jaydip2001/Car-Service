@@ -21,36 +21,10 @@ The Car Service Management System is a comprehensive solution designed to stream
 - *Database:* MYSQL
 
 
-
-## Installation
-
-1. *Clone the repository:*
-    bash
-    git clone https://github.com/yourusername/car-service.git
-    
-2. *Navigate to the project directory:*
-    bash
-    cd car-service
-    
-3. *Install dependencies:*
-    bash
-    npm install
-    
-4. *Set up environment variables:*
-    Create a .env file in the root directory and add the necessary environment variables as shown in the .env.example file.
-
-5. *Run the application:*
-    bash
-    npm start
-    
-
 ## Contributing
 
 We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
