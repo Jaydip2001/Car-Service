@@ -21,15 +21,8 @@ The Car Service Management System is a comprehensive solution designed to stream
 - *Database:* MYSQL
 
 
-## Contributing
-
-We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
-
-
 ## Contact
 
-For any questions or feedback, please contact us at support@carservice.com.
-
----
+For any questions or feedback, please contact us at jaydip2801@gmail.com.
 
 Feel free to customize this template according to your specific requirements and project details.
