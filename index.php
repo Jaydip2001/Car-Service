@@ -169,13 +169,13 @@ else echo "0";
             <div id="mySidebar" class="sidebar">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
   <a href="login.php">Login</a>
-  <!-- <hr> -->
+  <hr> 
   <a href="profile.php">Profile</a>
-  <!-- <hr> -->
+   <hr> 
  
   <a href="showpassword.php">ChangePassword</a>
-  <!-- <hr style="border-top: 5px dashed black;"> -->
-  <!-- <a href="forgot-password.php">forgot-password</a> -->
+  < <hr style="border-top: 5px dashed black;"> 
+   <a href="forgot-password.php">forgot-password</a> 
   <hr style="border-top: 5px solid black;">
   <a href="adminlogin.php">Admin</a>
   <hr style="border-top: 5px solid black;">
@@ -201,24 +201,24 @@ function closeNav() {
 }
 </script>
             
-                        <!-- <a href="team.php" class="dropdown-item">Technicians</a>
+                        <a href="team.php" class="dropdown-item">Technicians</a>
                         <a href="testimonial.php" class="dropdown-item">Testimonial</a>
                         <a href="404.php" class="dropdown-item">404 Page</a>
                         <a href="sos.php" class="dropdown-item  ">sos resque</a> -->
                     
-            <!-- <div class="dropdown" style="float:right;">
+            <div class="dropdown" style="float:right;">
   <button class="dropbtn">Right</button>
   <div class="dropdown-content">
     <a href="#">Link 1</a>
     <a href="#">Link 2</a>
     <a href="#">Link 3</a>
   </div>
-</div> -->
+</div> 
             
-            <!-- <a href="login/login.php" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Login/Ragistration<i class="fa fa-arrow-right ms-3"></i></a> -->
+            <a href="login/login.php" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Login/Ragistration<i class="fa fa-arrow-right ms-3"></i></a> ./
         </div>
     </nav>
-    <!-- Navbar End -->
+<!--      Navbar End  -->
 
 
     <!-- Carousel Start -->
@@ -415,21 +415,21 @@ function closeNav() {
             <div class="row g-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="col-lg-4">
                     <div class="nav w-100 nav-pills me-4">
-                    <!-- <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
+                     <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
                         <a href="denting&painting.php"  data-bs-target="#tab-pane-2" class="btn btn-primary py-3 px-5 mt-3"><i class="bi bi-paint-bucket fa-3x"></i>Denting & Painting</a>
-                         </div> -->
+                         </div> 
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
                             <i class="fa fa-car-side fa-2x me-3"></i>
                             <h4 class="m-0">PERIODIC SERVICE</h4>
                         </button>
-                        <!-- <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
+                         <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
                         <a href="denting&painting.php"  data-bs-target="#tab-pane-2" class="btn btn-primary py-3 px-5 mt-3"><i class="bi bi-paint-bucket fa-3x"></i>Denting & Painting</a>
-                         </div> -->
+                         </div> 
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
                             <i class="fa fa-car fa-2x me-3"></i>
                             <h4 class="m-0">CAR SPA</h4>
                         </button>
-                        <!-- <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
+                         <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
                         <a href="denting&painting.php"  data-bs-target="#tab-pane-2" class="btn btn-primary py-3 px-5 mt-3"><i class="bi bi-paint-bucket fa-3x"></i>Denting & Painting</a>
                          </div> -->
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
